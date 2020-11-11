@@ -11,4 +11,5 @@ set showmatch " Highlights matching braket/parenthesis
 set sw=4 " Sets indentation to use spaces and uses 4 spaces
 set relativenumber
 set laststatus=2 " Sets bottom line to always be visible
-set noshowmode " Hides the displaying of the active mode
+" set noshowmode " Hides the displaying of the active mode
+set backspace=indent,eol,start
