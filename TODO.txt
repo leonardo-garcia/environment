@@ -1,0 +1,4 @@
+Add script to run the following command:
+//    *whatever the route is for the repo*
+ln -s */environment/.vimrc .vimrc
+It will set vim config to use the one in the repo
